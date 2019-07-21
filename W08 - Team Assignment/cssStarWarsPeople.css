@@ -1,0 +1,21 @@
+.peopleList {
+    width: 100%;
+    list-style: none;
+}
+
+.peopleListItem {
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.toggleViewOff {
+    display: none;
+}
+
+.toggleViewOn {
+    display: block;
+}

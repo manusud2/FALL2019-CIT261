@@ -110,7 +110,6 @@ function displayQuestions(questions)
       if ((cont1+cont2+1) == 11)
       {
         displayFinalScreen();
-
       }
       else
       {
